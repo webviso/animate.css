@@ -1,4 +1,4 @@
-# Animate.css
+# Animate.css (+additional anims)
 
 [![GitHub Version](https://img.shields.io/github/release/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/releases) [![Github Star](https://img.shields.io/github/stars/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/stargazers) [![Github Fork](https://img.shields.io/github/forks/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/network/members) [![License](https://img.shields.io/github/license/animate-css/animate.css.svg?style=for-the-badge)](https://github.com/animate-css/animate.css/blob/main/LICENSE)
 
